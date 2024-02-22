@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnVirtonomy
 - 👀 I’m interested in Medical Enginneering, Simulation & Biomechanics
-- 🌱 I’m currently learning SPH simulation/development
-- 💞️ I’m looking to collaborate on SPHinXsys
+- 🌱 I’m currently learning anatomical simulations
+- 💞️ I’m looking to collaborate on advancing computational modeling and simulation for virtual patients.
 - 📫 How to reach me benjamin@virtonomy.io
 
 <!---
